@@ -142,7 +142,7 @@ HireMate AI is a comprehensive AI-powered career enhancement platform that combi
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pradeesh1108/hireMate-AI.git
 cd resume-analyser-mock-interviewer
 ```
 
